@@ -1,10 +1,6 @@
 #  二二的自我介绍
 
-<<<<<<< HEAD
-<img src="dev_skills/image/20180425214237_fnkuj.jpg" width="200" alt="二二的形象">
-=======
-<img src="20180425214237_fnkuj.jpg" width="200" alt="二二的形象">
->>>>>>> e8b94a0b16d593d5a111df70cc0b0a650fdaf1d6
+<img src="image/20180425214237_fnkuj.jpg" width="200" alt="二二的形象">
 
 大家好，我是**二二**，和我妹妹是*哔哩哔哩*的吉祥物，以下是我的自我介绍：
 
@@ -60,14 +56,10 @@ print(np.array([1, 2, 3]) ** 2)
 其中执行`print(np.array([1, 2, 3]) ** 2)`可输出结果。
 
 ### 我最喜欢的环境管理工具是conda
-<<<<<<< HEAD
-<img src="dev_skills/image/first.png" width="800" alt="截图一">
+
+<img src="image/first.png" width="800" alt="截图一">
 
 ### 我可以在IDE上使用我建立的虚拟环境
-<img src="dev_skills/image/second.png" width="800" alt="截图二">
-=======
-<img src="first.png" width="800" alt="截图一">
 
-### 我可以在IDE上使用我建立的虚拟环境
-<img src="second.png" width="800" alt="截图二">
->>>>>>> e8b94a0b16d593d5a111df70cc0b0a650fdaf1d6
+<img src="image/second.png" width="800" alt="截图二">
+
