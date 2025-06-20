@@ -16,8 +16,8 @@ def predict_sentiment(text):
 
 
 # 选择对应句子
-movie = "美术、服装、布景细节丰富，完全是视觉盛宴！"
-food = "食物完全凉了，吃起来像隔夜饭，体验极差。"
+movie = "导演功力深厚，镜头语言非常有张力，每一帧都值得回味。"
+food = "食物分量十足，性价比超高，吃得很满足。"
 
 # 执行预测
 movie_sentiment = predict_sentiment(movie)

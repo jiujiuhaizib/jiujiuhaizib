@@ -4,7 +4,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 tokenizer = AutoTokenizer.from_pretrained("uer/gpt2-chinese-cluecorpussmall")
 model = AutoModelForCausalLM.from_pretrained("uer/gpt2-chinese-cluecorpussmall")
 
-prompt = "有一天，城市突然停电了"
+prompt = "如果动物会说话，它们最想告诉人类的是"
 
 input_ids = tokenizer.encode(prompt, return_tensors="pt")
 
